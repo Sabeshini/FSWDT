@@ -14,9 +14,10 @@ class Ex6 {
         // rows
         for (i = 0; i < n; i++) {
             // columns
+
             for (j = 0; j < n; j++) {
-                // System.out.print(num + " ");
-                System.out.println(j);
+                System.out.print(num + " ");
+                // System.out.println(num);
                 num++;
             }
             System.out.println();
